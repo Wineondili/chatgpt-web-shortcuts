@@ -24,7 +24,7 @@ Composer tools:
 
 ## Supported Page
 
-- Last verified against ChatGPT Web on: `2026-06-22` Asia/Shanghai
+- Last verified against ChatGPT Web on: `2026-06-22`
 - Tested target: `https://chatgpt.com/*`
 - Legacy match included: `https://chat.openai.com/*`
 - UI language targeted: English labels such as `Instant`, `Medium`, `Add files and more`, and `Deep research`
